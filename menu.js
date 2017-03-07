@@ -1,4 +1,4 @@
-{
+var menu = {
   "main": [
     {
       "id": "1",
@@ -274,4 +274,6 @@
       "teasers": ""
     }
   ]
-}
+};
+
+module.exports = JSON.stringify(menu);

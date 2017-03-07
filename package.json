@@ -2,7 +2,7 @@
   "name": "sol-menu-content",
   "version": "0.0.1",
   "description": "Content for site navigation at sol.no",
-  "main": "menu.json",
+  "main": "menu.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

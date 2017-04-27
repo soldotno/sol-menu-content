@@ -142,72 +142,12 @@ var menu = {
       ]
     },
     {
-      "id": "3",
-      "parentid": "0",
-      "title": "Bolig",
-      "color": "#bf05ae",
-      "theme": "bolig",
-      "uri": "/bolig",
-      "type": "main",
-      "teasers": ""
-    },
-    {
-      "id": "9",
-      "parentid": "0",
-      "title": "Helse",
-      "color": "#75d3de",
-      "theme": "helse",
-      "uri": "/helse",
-      "type": "main",
-      "teasers": ""
-    },
-    {
-      "id": "15",
-      "parentid": "0",
-      "title": "Mat",
-      "color": "#b88f4a",
-      "theme": "mat",
-      "uri": "/mat",
-      "type": "main",
-      "teasers": ""
-    },
-    {
       "id": "58",
       "parentid": "0",
       "title": "Meninger",
       "color": "#598c99",
       "theme": "meninger",
       "uri": "/meninger",
-      "type": "main",
-      "teasers": ""
-    },
-    {
-      "id": "21",
-      "parentid": "0",
-      "title": "Motor",
-      "color": "#fddc01",
-      "theme": "motor",
-      "uri": "/motor/",
-      "type": "main",
-      "teasers": ""
-    },
-    {
-      "id": "59",
-      "parentid": "0",
-      "title": "Redaksjonen anbefaler",
-      "color": "#e20613",
-      "theme": "redaksjonenanbefaler",
-      "uri": "/redaksjonenanbefaler",
-      "type": "main",
-      "teasers": ""
-    },
-    {
-      "id": "27",
-      "parentid": "0",
-      "title": "Reise",
-      "color": "#ff8600",
-      "theme": "reise",
-      "uri": "/reise",
       "type": "main",
       "teasers": ""
     },
@@ -222,12 +162,72 @@ var menu = {
       "teasers": ""
     },
     {
+      "id": "59",
+      "parentid": "0",
+      "title": "Anbefalt",
+      "color": "#e20613",
+      "theme": "redaksjonenanbefaler",
+      "uri": "/redaksjonenanbefaler",
+      "type": "main",
+      "teasers": ""
+    },
+    {
       "id": "40",
       "parentid": "0",
       "title": "Underholdning",
       "color": "#ea4893",
       "theme": "underholdning",
       "uri": "/underholdning",
+      "type": "main",
+      "teasers": ""
+    },
+    {
+      "id": "3",
+      "parentid": "0",
+      "title": "Bolig",
+      "color": "#bf05ae",
+      "theme": "bolig",
+      "uri": "/bolig",
+      "type": "main",
+      "teasers": ""
+    },
+    {
+      "id": "21",
+      "parentid": "0",
+      "title": "Motor",
+      "color": "#fddc01",
+      "theme": "motor",
+      "uri": "/motor/",
+      "type": "main",
+      "teasers": ""
+    },
+    {
+      "id": "9",
+      "parentid": "0",
+      "title": "Helse",
+      "color": "#75d3de",
+      "theme": "helse",
+      "uri": "/helse",
+      "type": "main",
+      "teasers": ""
+    },
+    {
+      "id": "27",
+      "parentid": "0",
+      "title": "Reise",
+      "color": "#ff8600",
+      "theme": "reise",
+      "uri": "/reise",
+      "type": "main",
+      "teasers": ""
+    },
+    {
+      "id": "15",
+      "parentid": "0",
+      "title": "Mat",
+      "color": "#b88f4a",
+      "theme": "mat",
+      "uri": "/mat",
       "type": "main",
       "teasers": ""
     }

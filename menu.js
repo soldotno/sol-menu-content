@@ -1,4 +1,4 @@
-'var menu = {
+var menu = {
   "main": [
     {
       "id": "1",
@@ -238,7 +238,7 @@
       "color": "#9312be",
       "theme": "",
       "uri": "/horoskop",
-      "type": "main",
+      "type": "extra",
       "teasers": ""
     }
   ],
@@ -277,4 +277,3 @@
 };
 
 module.exports = JSON.stringify(menu);
-'

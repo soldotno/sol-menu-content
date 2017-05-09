@@ -1,4 +1,4 @@
-var menu = {
+'var menu = {
   "main": [
     {
       "id": "1",
@@ -172,16 +172,6 @@ var menu = {
       "teasers": ""
     },
     {
-      "id": "36",
-      "parentid": "0",
-      "title": "Horoskop",
-      "color": "#9312be",
-      "theme": "",
-      "uri": "/horoskop",
-      "type": "main",
-      "teasers": ""
-    },
-    {
       "id": "40",
       "parentid": "0",
       "title": "Underholdning",
@@ -240,6 +230,16 @@ var menu = {
       "uri": "/mat",
       "type": "main",
       "teasers": ""
+    },
+    {
+      "id": "36",
+      "parentid": "0",
+      "title": "Horoskop",
+      "color": "#9312be",
+      "theme": "",
+      "uri": "/horoskop",
+      "type": "main",
+      "teasers": ""
     }
   ],
   "extra": [
@@ -277,3 +277,4 @@ var menu = {
 };
 
 module.exports = JSON.stringify(menu);
+'

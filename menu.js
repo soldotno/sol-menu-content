@@ -172,6 +172,16 @@ var menu = {
       "teasers": ""
     },
     {
+      "id": "36",
+      "parentid": "0",
+      "title": "Horoskop",
+      "color": "#9312be",
+      "theme": "",
+      "uri": "/horoskop",
+      "type": "main",
+      "teasers": ""
+    },
+    {
       "id": "40",
       "parentid": "0",
       "title": "Underholdning",
@@ -240,16 +250,6 @@ var menu = {
       "color": "#BE202E",
       "theme": "",
       "uri": "https://www.kvasir.no",
-      "type": "extra",
-      "teasers": ""
-    },
-    {
-      "id": "36",
-      "parentid": "0",
-      "title": "Horoskop",
-      "color": "#9312be",
-      "theme": "",
-      "uri": "/horoskop",
       "type": "extra",
       "teasers": ""
     },

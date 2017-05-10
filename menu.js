@@ -197,7 +197,7 @@ var menu = {
       "title": "Motor",
       "color": "#fddc01",
       "theme": "motor",
-      "uri": "/motor/",
+      "uri": "/motor",
       "type": "main",
       "teasers": ""
     },

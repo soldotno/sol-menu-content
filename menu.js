@@ -240,6 +240,16 @@ var menu = {
       "uri": "/horoskop",
       "type": "extra",
       "teasers": ""
+    },
+    {
+      "id": "40",
+      "parentid": "0",
+      "title": "Rabattkoder",
+      "color": "#9312be",
+      "theme": "",
+      "uri": "https://www.kk.no/rabattkoder",
+      "type": "extra",
+      "teasers": ""
     }
   ],
   "extra": [

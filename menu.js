@@ -181,7 +181,7 @@ var menu = {
       "type": "main",
       "teasers": ""
     },
-    {
+    /* {
       "id": "3",
       "parentid": "0",
       "title": "Bolig",
@@ -190,7 +190,7 @@ var menu = {
       "uri": "/bolig",
       "type": "main",
       "teasers": ""
-    },
+    }, */
     {
       "id": "21",
       "parentid": "0",

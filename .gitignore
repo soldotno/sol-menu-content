@@ -1,0 +1,8 @@
+# Shellscripts
+*.sh
+
+# Editors
+.idea
+*.iml
+
+node_modules

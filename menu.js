@@ -144,20 +144,20 @@ var menu = {
     {
       "id": "58",
       "parentid": "0",
-      "title": "Meninger",
+      "title": "Økonomi",
       "color": "#007b84",
-      "theme": "meninger",
-      "uri": "/meninger",
+      "theme": "okonomi",
+      "uri": "/okonomi",
       "type": "main",
       "teasers": ""
     },
     {
-      "id": "33",
+      "id": "58",
       "parentid": "0",
-      "title": "Sport",
-      "color": "#1fa975",
-      "theme": "sport",
-      "uri": "/sport",
+      "title": "Meninger",
+      "color": "#007b84",
+      "theme": "meninger",
+      "uri": "/meninger",
       "type": "main",
       "teasers": ""
     },
@@ -172,6 +172,16 @@ var menu = {
       "teasers": ""
     },
     {
+      "id": "33",
+      "parentid": "0",
+      "title": "Sport",
+      "color": "#1fa975",
+      "theme": "sport",
+      "uri": "/sport",
+      "type": "main",
+      "teasers": ""
+    },
+    {
       "id": "40",
       "parentid": "0",
       "title": "Underholdning",
@@ -181,16 +191,6 @@ var menu = {
       "type": "main",
       "teasers": ""
     },
-    /* {
-      "id": "3",
-      "parentid": "0",
-      "title": "Bolig",
-      "color": "#9a663f",
-      "theme": "bolig",
-      "uri": "/bolig",
-      "type": "main",
-      "teasers": ""
-    }, */
     {
       "id": "21",
       "parentid": "0",
@@ -222,6 +222,27 @@ var menu = {
       "teasers": ""
     },
     {
+      "id": "3",
+      "parentid": "0",
+      "title": "Bolig",
+      "color": "#9a663f",
+      "theme": "bolig",
+      "uri": "/bolig",
+      "type": "main",
+      "teasers": ""
+    },
+    {
+      "id": "15",
+      "parentid": "0",
+      "title": "Forbrukertester",
+      "color": "#ff953a",
+      "theme": "forbrukertester",
+      "uri": "/tester",
+      "type": "main",
+      "teasers": "",
+      "showInDropDown": true,
+    },
+    {
       "id": "15",
       "parentid": "0",
       "title": "Mat",
@@ -229,7 +250,29 @@ var menu = {
       "theme": "mat",
       "uri": "/mat",
       "type": "main",
-      "teasers": ""
+      "teasers": "",
+      "showInDropDown": true,
+    },
+    {
+      "id": "15",
+      "parentid": "0",
+      "title": "Utenriks",
+      "color": "#ff953a",
+      "theme": "utenriks",
+      "uri": "/utenriks",
+      "type": "main",
+      "teasers": "",
+      "showInDropDown": true,
+    },
+    {
+      "id": "15",
+      "parentid": "0",
+      "title": "Quiz",
+      "color": "#ff953a",
+      "theme": "quiz",
+      "uri": "/quiz",
+      "type": "main",
+      "teasers": "",
     },
     {
       "id": "36",
@@ -238,19 +281,52 @@ var menu = {
       "color": "#9312be",
       "theme": "",
       "uri": "/horoskop",
-      "type": "extra",
-      "teasers": ""
+      "type": "main",
+      "teasers": "",
+      "showInDropDown": true,
+    },
+    {
+      "id": "37",
+      "parentid": "0",
+      "title": "Kommersielt:",
+      "color": "#f10000",
+      "theme": "",
+      "type": "heading",
+      "teasers": "",
+      "showInDropDown": true,
+      "children": [
+      ],
     },
     {
       "id": "40",
-      "parentid": "0",
+      "parentid": "37",
       "title": "Rabattkoder",
       "color": "#9312be",
       "theme": "",
       "uri": "https://www.kk.no/rabattkoder",
-      "type": "extra",
+      "type": "sub",
       "teasers": ""
-    }
+    },
+    {
+      "id": "41",
+      "parentid": "37",
+      "title": "Forbrukslån",
+      "color": "#9312be",
+      "theme": "",
+      "uri": "https://sol.no/forbruksl%C3%A5n",
+      "type": "sub",
+      "teasers": ""
+    },
+    {
+      "id": "42",
+      "parentid": "37",
+      "title": "Kredittkort",
+      "color": "#9312be",
+      "theme": "",
+      "uri": "https://sol.no/kredittkort",
+      "type": "sub",
+      "teasers": ""
+    },
   ],
   "extra": [
     {

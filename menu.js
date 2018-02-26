@@ -142,16 +142,6 @@ var menu = {
       ]
     },
     {
-      "id": "68",
-      "parentid": "0",
-      "title": "OL 2018",
-      "color": "#1fa975",
-      "theme": "sport",
-      "uri": "/ol",
-      "type": "main",
-      "teasers": ""
-    },
-    {
       "id": "58",
       "parentid": "0",
       "title": "Økonomi",

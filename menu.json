@@ -8,7 +8,7 @@
       "theme": "",
       "uri": "/",
       "type": "main",
-      "icon": ""
+      "icon": {}
     },
     {
       "id": "2",
@@ -19,7 +19,10 @@
       "uri": "/nyheter",
       "type": "main",
       "teasers": "",
-      "icon": "newspaper",
+      "icon": {
+        "name": "newspaper",
+        "package": "MaterialCommunityIcons"
+      },
       "children": [
         {
           "id": "42",
@@ -163,7 +166,10 @@
       "uri": "/meninger",
       "type": "main",
       "teasers": "",
-      "icon": "chat-bubble-outline"
+      "icon": {
+        "name": "thought-bubble",
+        "package": "MaterialCommunityIcons"
+      }
     },
     {
       "id": "59",
@@ -174,7 +180,10 @@
       "uri": "/redaksjonenanbefaler",
       "type": "main",
       "teasers": "",
-      "icon": "approval"
+      "icon": {
+        "name": "approval",
+        "package": "MaterialCommunityIcons"
+      }
     },
     {
       "id": "33",
@@ -185,7 +194,10 @@
       "uri": "/sport",
       "type": "main",
       "teasers": "",
-      "icon": "basketball"
+      "icon": {
+        "name": "run",
+        "package": "MaterialCommunityIcons"
+      }
     },
     {
       "id": "40",
@@ -196,7 +208,10 @@
       "uri": "/underholdning",
       "type": "main",
       "teasers": "",
-      "icon": "gamepad-variant"
+      "icon": {
+        "name": "gamepad-variant",
+        "package": "MaterialCommunityIcons"
+      }
     },
     {
       "id": "21",
@@ -207,7 +222,10 @@
       "uri": "/motor",
       "type": "main",
       "teasers": "",
-      "icon": "car-sports"
+      "icon": {
+        "name": "car-sports",
+        "package": "MaterialCommunityIcons"
+      }
     },
     {
       "id": "9",
@@ -218,7 +236,10 @@
       "uri": "/helse",
       "type": "main",
       "teasers": "",
-      "icon": "heart-outline"
+      "icon": {
+        "name": "heart-outline",
+        "package": "MaterialCommunityIcons"
+      }
     },
     {
       "id": "27",
@@ -229,7 +250,10 @@
       "uri": "/reise",
       "type": "main",
       "teasers": "",
-      "icon": "airplane"
+      "icon": {
+        "name": "airplane",
+        "package": "MaterialCommunityIcons"
+      }
     },
     {
       "id": "3",
@@ -240,7 +264,7 @@
       "uri": "/bolig",
       "type": "main",
       "teasers": "",
-      "icon": ""
+      "icon": {}
     },
     {
       "id": "15",
@@ -251,7 +275,7 @@
       "uri": "/tester",
       "type": "main",
       "teasers": "",
-      "icon": "",
+      "icon": {},
       "showInDropDown": true
     },
     {
@@ -263,7 +287,10 @@
       "uri": "/mat",
       "type": "main",
       "teasers": "",
-      "icon": "food",
+      "icon": {
+        "name": "food",
+        "package": "MaterialCommunityIcons"
+      },
       "showInDropDown": true
     },
     {
@@ -275,7 +302,7 @@
       "uri": "/utenriks",
       "type": "main",
       "teasers": "",
-      "icon": "",
+      "icon": {},
       "showInDropDown": true
     },
     {
@@ -287,7 +314,7 @@
       "uri": "/quiz",
       "type": "main",
       "teasers": "",
-      "icon": ""
+      "icon": {}
     },
     {
       "id": "36",
@@ -298,7 +325,10 @@
       "uri": "/horoskop",
       "type": "main",
       "teasers": "",
-      "icon": "star-outline",
+      "icon": {
+        "name": "star-outline",
+        "package": "MaterialCommunityIcons"
+      },
       "showInDropDown": true
     },
     {
@@ -309,7 +339,7 @@
       "theme": "",
       "type": "heading",
       "teasers": "",
-      "icon": "",
+      "icon": {},
       "showInDropDown": true,
       "children": [
       ]
@@ -323,7 +353,7 @@
       "uri": "https://www.kk.no/rabattkoder",
       "type": "sub",
       "teasers": "",
-      "icon": ""
+      "icon": {}
     },
     {
       "id": "41",
@@ -334,7 +364,7 @@
       "uri": "https://sol.no/forbruksl%C3%A5n",
       "type": "sub",
       "teasers": "",
-      "icon": ""
+      "icon": {}
     },
     {
       "id": "42",
@@ -345,7 +375,7 @@
       "uri": "https://sol.no/kredittkort",
       "type": "sub",
       "teasers": "",
-      "icon": ""
+      "icon": {}
     }
   ],
   "extra": [
@@ -358,7 +388,7 @@
       "uri": "https://www.kvasir.no",
       "type": "extra",
       "teasers": "",
-      "icon": ""
+      "icon": {}
     },
     {
       "id": "38",
@@ -369,7 +399,7 @@
       "uri": "/nyheter",
       "type": "extra",
       "teasers": "",
-      "icon": ""
+      "icon": {}
     },
     {
       "id": "39",
@@ -380,7 +410,7 @@
       "uri": "/spill/tipping/",
       "type": "extra",
       "teasers": "",
-      "icon": ""
+      "icon": {}
     }
   ]
 }

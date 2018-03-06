@@ -163,7 +163,7 @@
       "uri": "/meninger",
       "type": "main",
       "teasers": "",
-      "icon": "chat-bubble-outline"
+      "icon": "thought-bubble"
     },
     {
       "id": "59",
@@ -185,7 +185,7 @@
       "uri": "/sport",
       "type": "main",
       "teasers": "",
-      "icon": "basketball"
+      "icon": "run"
     },
     {
       "id": "40",

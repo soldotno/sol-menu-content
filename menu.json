@@ -7,7 +7,8 @@
       "color": "#000000",
       "theme": "",
       "uri": "/",
-      "type": "main"
+      "type": "main",
+      "icon": ""
     },
     {
       "id": "2",
@@ -18,6 +19,7 @@
       "uri": "/nyheter",
       "type": "main",
       "teasers": "",
+      "icon": "newspaper",
       "children": [
         {
           "id": "42",
@@ -149,7 +151,8 @@
       "theme": "okonomi",
       "uri": "/okonomi",
       "type": "main",
-      "teasers": ""
+      "teasers": "",
+      "icon": ""
     },
     {
       "id": "58",
@@ -159,7 +162,8 @@
       "theme": "meninger",
       "uri": "/meninger",
       "type": "main",
-      "teasers": ""
+      "teasers": "",
+      "icon": "chat-bubble-outline"
     },
     {
       "id": "59",
@@ -169,7 +173,8 @@
       "theme": "redaksjonenanbefaler",
       "uri": "/redaksjonenanbefaler",
       "type": "main",
-      "teasers": ""
+      "teasers": "",
+      "icon": "approval"
     },
     {
       "id": "33",
@@ -179,7 +184,8 @@
       "theme": "sport",
       "uri": "/sport",
       "type": "main",
-      "teasers": ""
+      "teasers": "",
+      "icon": "basketball"
     },
     {
       "id": "40",
@@ -189,7 +195,8 @@
       "theme": "underholdning",
       "uri": "/underholdning",
       "type": "main",
-      "teasers": ""
+      "teasers": "",
+      "icon": "gamepad-variant"
     },
     {
       "id": "21",
@@ -199,7 +206,8 @@
       "theme": "motor",
       "uri": "/motor",
       "type": "main",
-      "teasers": ""
+      "teasers": "",
+      "icon": "car-sports"
     },
     {
       "id": "9",
@@ -209,7 +217,8 @@
       "theme": "helse",
       "uri": "/helse",
       "type": "main",
-      "teasers": ""
+      "teasers": "",
+      "icon": "heart-outline"
     },
     {
       "id": "27",
@@ -219,7 +228,8 @@
       "theme": "reise",
       "uri": "/reise",
       "type": "main",
-      "teasers": ""
+      "teasers": "",
+      "icon": "airplane"
     },
     {
       "id": "3",
@@ -229,7 +239,8 @@
       "theme": "bolig",
       "uri": "/bolig",
       "type": "main",
-      "teasers": ""
+      "teasers": "",
+      "icon": ""
     },
     {
       "id": "15",
@@ -240,6 +251,7 @@
       "uri": "/tester",
       "type": "main",
       "teasers": "",
+      "icon": "",
       "showInDropDown": true
     },
     {
@@ -251,6 +263,7 @@
       "uri": "/mat",
       "type": "main",
       "teasers": "",
+      "icon": "food",
       "showInDropDown": true
     },
     {
@@ -262,6 +275,7 @@
       "uri": "/utenriks",
       "type": "main",
       "teasers": "",
+      "icon": "",
       "showInDropDown": true
     },
     {
@@ -272,7 +286,8 @@
       "theme": "quiz",
       "uri": "/quiz",
       "type": "main",
-      "teasers": ""
+      "teasers": "",
+      "icon": ""
     },
     {
       "id": "36",
@@ -283,6 +298,7 @@
       "uri": "/horoskop",
       "type": "main",
       "teasers": "",
+      "icon": "star-outline",
       "showInDropDown": true
     },
     {
@@ -293,6 +309,7 @@
       "theme": "",
       "type": "heading",
       "teasers": "",
+      "icon": "",
       "showInDropDown": true,
       "children": [
       ]
@@ -305,7 +322,8 @@
       "theme": "",
       "uri": "https://www.kk.no/rabattkoder",
       "type": "sub",
-      "teasers": ""
+      "teasers": "",
+      "icon": ""
     },
     {
       "id": "41",
@@ -315,7 +333,8 @@
       "theme": "",
       "uri": "https://sol.no/forbruksl%C3%A5n",
       "type": "sub",
-      "teasers": ""
+      "teasers": "",
+      "icon": ""
     },
     {
       "id": "42",
@@ -325,7 +344,8 @@
       "theme": "",
       "uri": "https://sol.no/kredittkort",
       "type": "sub",
-      "teasers": ""
+      "teasers": "",
+      "icon": ""
     }
   ],
   "extra": [
@@ -337,7 +357,8 @@
       "theme": "",
       "uri": "https://www.kvasir.no",
       "type": "extra",
-      "teasers": ""
+      "teasers": "",
+      "icon": ""
     },
     {
       "id": "38",
@@ -347,7 +368,8 @@
       "theme": "",
       "uri": "/nyheter",
       "type": "extra",
-      "teasers": ""
+      "teasers": "",
+      "icon": ""
     },
     {
       "id": "39",
@@ -357,7 +379,8 @@
       "theme": "",
       "uri": "/spill/tipping/",
       "type": "extra",
-      "teasers": ""
+      "teasers": "",
+      "icon": ""
     }
   ]
 }

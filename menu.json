@@ -237,7 +237,7 @@
       "type": "main",
       "teasers": "",
       "icon": {
-        "name": "heart-outline",
+        "name": "heart-pulse",
         "package": "MaterialCommunityIcons"
       }
     },

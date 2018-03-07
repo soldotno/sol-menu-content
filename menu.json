@@ -155,7 +155,10 @@
       "uri": "/okonomi",
       "type": "main",
       "teasers": "",
-      "icon": ""
+      "icon": {
+        "name": "coin",
+        "package": "MaterialCommunityIcons"
+      }
     },
     {
       "id": "58",
@@ -264,7 +267,10 @@
       "uri": "/bolig",
       "type": "main",
       "teasers": "",
-      "icon": {}
+      "icon": {
+        "name": "home-variant",
+        "package": "MaterialCommunityIcons"
+      }
     },
     {
       "id": "15",
@@ -275,7 +281,10 @@
       "uri": "/tester",
       "type": "main",
       "teasers": "",
-      "icon": {},
+      "icon": {
+        "name": "test-tube",
+        "package": "MaterialCommunityIcons"
+      },
       "showInDropDown": true
     },
     {
@@ -302,7 +311,10 @@
       "uri": "/utenriks",
       "type": "main",
       "teasers": "",
-      "icon": {},
+      "icon": {
+        "name": "earth",
+        "package": "MaterialCommunityIcons"
+      },
       "showInDropDown": true
     },
     {
@@ -314,7 +326,10 @@
       "uri": "/quiz",
       "type": "main",
       "teasers": "",
-      "icon": {}
+      "icon": {
+        "name": "comment-question-outline",
+        "package": "MaterialCommunityIcons"
+      }
     },
     {
       "id": "36",

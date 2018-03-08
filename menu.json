@@ -170,7 +170,7 @@
       "type": "main",
       "teasers": "",
       "icon": {
-        "name": "thought-bubble",
+        "name": "message-text-outline",
         "package": "MaterialCommunityIcons"
       }
     },
@@ -184,7 +184,7 @@
       "type": "main",
       "teasers": "",
       "icon": {
-        "name": "approval",
+        "name": "star",
         "package": "MaterialCommunityIcons"
       }
     },
@@ -341,7 +341,7 @@
       "type": "main",
       "teasers": "",
       "icon": {
-        "name": "star-outline",
+        "name": "vector-polyline",
         "package": "MaterialCommunityIcons"
       },
       "showInDropDown": true

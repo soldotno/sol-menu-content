@@ -369,6 +369,28 @@
       "type": "sub",
       "teasers": "",
       "icon": {}
+    },
+    {
+      "id": "41",
+      "parentid": "37",
+      "title": "Forbrukslån",
+      "color": "#9312be",
+      "theme": "",
+      "uri": "https://sol.no/forbruksl%C3%A5n",
+      "type": "sub",
+      "teasers": "",
+      "icon": {}
+    },
+    {
+      "id": "42",
+      "parentid": "37",
+      "title": "Kredittkort",
+      "color": "#9312be",
+      "theme": "",
+      "uri": "https://sol.no/kredittkort",
+      "type": "sub",
+      "teasers": "",
+      "icon": {}
     }
   ],
   "extra": [

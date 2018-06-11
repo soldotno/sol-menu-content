@@ -147,6 +147,17 @@
       ]
     },
     {
+      "id": "68",
+      "parentid": "0",
+      "title": "Fotball-VM",
+      "color": "#1fa975",
+      "theme": "sport",
+      "uri": "/sport/fotball-vm",
+      "type": "main",
+      "teasers": ""
+    },
+
+    {
       "id": "58",
       "parentid": "0",
       "title": "Økonomi",

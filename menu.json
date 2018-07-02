@@ -154,7 +154,11 @@
       "theme": "sport",
       "uri": "/sport/fotball-vm",
       "type": "main",
-      "teasers": ""
+      "teasers": "",
+      "icon": {
+        "name": "soccer",
+        "package": "MaterialCommunityIcons"
+      }
     },
 
     {

@@ -345,19 +345,6 @@
         "package": "MaterialCommunityIcons"
       },
       "showInDropDown": true
-    },
-    {
-      "id": "37",
-      "parentid": "0",
-      "title": "Kommersielt:",
-      "color": "#f10000",
-      "theme": "",
-      "type": "heading",
-      "teasers": "",
-      "icon": {},
-      "showInDropDown": true,
-      "children": [
-      ]
     }
   ],
   "extra": [

@@ -358,17 +358,6 @@
       "showInDropDown": true,
       "children": [
       ]
-    },
-    {
-      "id": "40",
-      "parentid": "37",
-      "title": "Rabattkoder",
-      "color": "#9312be",
-      "theme": "",
-      "uri": "https://www.kk.no/rabattkoder",
-      "type": "sub",
-      "teasers": "",
-      "icon": {}
     }
   ],
   "extra": [

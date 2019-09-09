@@ -149,20 +149,6 @@
     {
       "id": "58",
       "parentid": "0",
-      "title": "Valgresultater",
-      "color": "#f10000",
-      "theme": "nyheter",
-      "uri": "/valg",
-      "type": "main",
-      "teasers": "",
-      "icon": {
-        "name": "coin",
-        "package": "MaterialCommunityIcons"
-      }
-    },
-    {
-      "id": "58",
-      "parentid": "0",
       "title": "Økonomi",
       "color": "#f10000",
       "theme": "okonomi",

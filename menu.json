@@ -147,6 +147,20 @@
       ]
     },
     {
+      "id": "61",
+      "parentid": "0",
+      "title": "Spill",
+      "color": "#f10000",
+      "theme": "spill",
+      "uri": "/spill",
+      "type": "main",
+      "teasers": "",
+      "icon": {
+        "name": "google-controller",
+        "package": "MaterialCommunityIcons"
+      }
+    },
+    {
       "id": "58",
       "parentid": "0",
       "title": "Økonomi",
@@ -157,6 +171,20 @@
       "teasers": "",
       "icon": {
         "name": "coin",
+        "package": "MaterialCommunityIcons"
+      }
+    },
+    {
+      "id": "60",
+      "parentid": "0",
+      "title": "Nyttig",
+      "color": "#f10000",
+      "theme": "nyttig",
+      "uri": "/nyttig",
+      "type": "main",
+      "teasers": "",
+      "icon": {
+        "name": "lightbulb-on",
         "package": "MaterialCommunityIcons"
       }
     },

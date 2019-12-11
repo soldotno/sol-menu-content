@@ -175,6 +175,20 @@
       }
     },
     {
+      "id": "62",
+      "parentid": "0",
+      "title": "Eiendom",
+      "color": "#9a663f",
+      "theme": "eiendom",
+      "uri": "/eiendom",
+      "type": "main",
+      "teasers": "",
+      "icon": {
+        "name": "home-variant",
+        "package": "MaterialCommunityIcons"
+      }
+    },
+    {
       "id": "60",
       "parentid": "0",
       "title": "Nyttig",

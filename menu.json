@@ -149,14 +149,14 @@
     {
       "id": "61",
       "parentid": "0",
-      "title": "Spill",
+      "title": "Video",
       "color": "#f10000",
-      "theme": "spill",
-      "uri": "/spill",
+      "theme": "video",
+      "uri": "/video",
       "type": "main",
       "teasers": "",
       "icon": {
-        "name": "google-controller",
+        "name": "movie-open-outline",
         "package": "MaterialCommunityIcons"
       }
     },

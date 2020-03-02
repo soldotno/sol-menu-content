@@ -11,6 +11,20 @@
       "icon": {}
     },
     {
+      "id": "63",
+      "parentid": "0",
+      "title": "Coronavirus",
+      "color": "#f10000",
+      "theme": "coronavirus",
+      "uri": "/coronavirus",
+      "type": "main",
+      "teasers": "",
+      "icon": {
+        "name": "heart-pulse",
+        "package": "MaterialCommunityIcons"
+      }
+    },
+    {
       "id": "2",
       "parentid": "0",
       "title": "Nyheter",
@@ -269,20 +283,6 @@
       "teasers": "",
       "icon": {
         "name": "car-sports",
-        "package": "MaterialCommunityIcons"
-      }
-    },
-    {
-      "id": "9",
-      "parentid": "0",
-      "title": "Helse",
-      "color": "#5696f3",
-      "theme": "helse",
-      "uri": "/helse",
-      "type": "main",
-      "teasers": "",
-      "icon": {
-        "name": "heart-pulse",
         "package": "MaterialCommunityIcons"
       }
     },

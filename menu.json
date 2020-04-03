@@ -401,6 +401,17 @@
       "children": []
     },
     {
+      "id": "54",
+      "parentid": "37",
+      "title": "Lån",
+      "color": "#9312be",
+      "theme": "",
+      "uri": "https://sol.no/lån",
+      "type": "sub",
+      "teasers": "",
+      "icon": {}
+    },
+    {
       "id": "40",
       "parentid": "37",
       "title": "Rabattkoder",

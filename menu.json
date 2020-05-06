@@ -11,6 +11,20 @@
       "icon": {}
     },
     {
+      "id": "64",
+      "parentid": "0",
+      "title": "Min feed",
+      "color": "#f10000",
+      "theme": "minfeed",
+      "uri": "/minfeed",
+      "type": "main",
+      "teasers": "",
+      "icon": {
+        "name": "heart-outline",
+        "package": "MaterialCommunityIcons"
+      }
+    },
+    {
       "id": "63",
       "parentid": "0",
       "title": "Coronavirus",

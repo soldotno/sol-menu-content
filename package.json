@@ -1,6 +1,6 @@
 {
   "name": "sol-menu-content",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "Content for site navigation at sol.no",
   "main": "menu.js",
   "scripts": {
